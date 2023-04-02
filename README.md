@@ -5,3 +5,5 @@ LOANS are the major requirement of the modern world. By this only, Banks get a m
 But when it comes to deciding whether the applicant’s profile is relevant to be granted with loan or not. Banks have to look after many aspects.
 
 So, here we will be using Machine Learning with Python to ease their work and predict whether the candidate’s profile is relevant or not using key features like Marital Status, Education, Applicant Income, Credit History, etc.
+
+https://user-images.githubusercontent.com/91174487/229349505-0e07b780-0a35-421f-a225-bbd3c4205676.mp4
